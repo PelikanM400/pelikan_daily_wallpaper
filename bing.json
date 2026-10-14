@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
-  "sha256": "5915a5d5799fc3d0b2464d6d7a53deee48cbae9b6b9d680b52c9dc31b16801d3",
+  "image_url": "https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg",
+  "sha256": "fe281b24ec0f11407ce5c16ff32adc3136719eb3a372c94d670d85e3deb74915",
   "date": "2026-10-14",
   "published_at": "2026-10-14T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 2054354,
+  "size_bytes": 3698013,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
