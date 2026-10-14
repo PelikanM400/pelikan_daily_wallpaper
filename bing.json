@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg",
-  "sha256": "6bf5e991d02ba42fe8af0a0effa21471be3469e37ce7eb93b2030cb6ff0b3c69",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg",
+  "sha256": "fe281b24ec0f11407ce5c16ff32adc3136719eb3a372c94d670d85e3deb74915",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3760643,
+  "size_bytes": 3698013,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
