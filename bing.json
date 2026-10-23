@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg",
-  "sha256": "9a4f8aa6f73d9cc074125f10530c30a59fd66f51fb60f65789611b4253030768",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg",
+  "sha256": "29d5ad21d17a7e2fd4b5817e2d65bf2b0a28eb64a7fda2c4d71c28ee53a64524",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3690994,
+  "size_bytes": 3645371,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
