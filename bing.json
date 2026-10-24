@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg",
-  "sha256": "29d5ad21d17a7e2fd4b5817e2d65bf2b0a28eb64a7fda2c4d71c28ee53a64524",
-  "date": "2026-10-24",
-  "published_at": "2026-10-24T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg",
+  "sha256": "8fccea46b31c5ef473b3ba3cc4b41baf6cc7a2c9dbd0ebe91f6296a76e6e73f4",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3645371,
+  "size_bytes": 3386923,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
