@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg",
-  "sha256": "a625c9e37474c360775d7d19be688e503467efb1d3ccd7fa38769efe79272e14",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg",
+  "sha256": "9ce65ced5b6995997bbf9ed1b3873f2c7e718516f6f861c7e6535ad5d0f495de",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3682578,
+  "size_bytes": 3702955,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
