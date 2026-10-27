@@ -1,12 +1,11 @@
 {
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T04:30:30+08:00",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T04:30:30+08:00",
   "timezone": "Asia/Shanghai",
-  "photo_id": "m9hvA-RQWqc",
-  "image_url": "https://raw.githubusercontent.com/PelikanM400/pelikan_daily_wallpaper/a7bcc9d4fe49a24c5f3ade2544c68db00ffcdf23/current.jpg",
-  "sha256": "af376fed043081dc7a42f7f3edf98504b783d0a7ca390476677d255d6dec15dd",
-  "width": 2560,
-  "height": 3840,
-  "size_bytes": 2341678,
-  "source_photo_url": "https://unsplash.com/photos/m9hvA-RQWqc"
+  "photo_id": null,
+  "image_url": "https://raw.githubusercontent.com/PelikanM400/pelikan_daily_wallpaper/910036ef4c2d062882457bd4ab5d514c195224da/current.jpg",
+  "sha256": "cfa8d0b8ba2df95209b8dc23afd8ba7c5bf613b39751df6a78ada41496e3f00a",
+  "width": 3640,
+  "height": 5464,
+  "size_bytes": 4054372
 }
