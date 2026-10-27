@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg",
-  "sha256": "9ce65ced5b6995997bbf9ed1b3873f2c7e718516f6f861c7e6535ad5d0f495de",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg",
+  "sha256": "b2dab604217d12cc9ac6dd806d9db1d1536c9863e0ca54b4f5193f8aa5a89d57",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3702955,
+  "size_bytes": 3630877,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
