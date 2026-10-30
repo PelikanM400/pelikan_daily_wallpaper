@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg",
-  "sha256": "9854fdbc042c38ce2e9ff8c04e13f988189fc1dbf4b3d22b5be3968e924ea051",
-  "date": "2026-10-30",
-  "published_at": "2026-10-30T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg",
+  "sha256": "9eb1faff75b327fb0b077e8b1ad430649e4461536e0c1432b5ba03dd2eff1822",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3773562,
+  "size_bytes": 3658331,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
