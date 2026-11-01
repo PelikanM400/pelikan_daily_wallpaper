@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg",
-  "sha256": "334c6affef6fd122870c552582a60574667e0ef3b0f680f215940560e483b0ae",
-  "date": "2026-11-01",
-  "published_at": "2026-11-01T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg",
+  "sha256": "1d20b6d16591dc594eb18bdc1cd6dd324b3da82a6488f89413f7751ac488f7b9",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3483795,
+  "size_bytes": 3749879,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
