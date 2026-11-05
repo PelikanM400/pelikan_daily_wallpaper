@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg",
-  "sha256": "0491e5751dc26e2cec0c7154ed659f4f0b15add889a0535402972ab32c215050",
-  "date": "2026-11-05",
-  "published_at": "2026-11-05T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg",
+  "sha256": "8c4a011fd7139cec9718d08dbe956721a2b11d5e6cc760680150f720a41d1894",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3631746,
+  "size_bytes": 3750781,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
