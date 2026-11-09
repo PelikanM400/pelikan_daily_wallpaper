@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg",
-  "sha256": "d28144dbd82f03b2237755224dd7bd152227b1929338618e68e0048ab04f328b",
-  "date": "2026-11-09",
-  "published_at": "2026-11-09T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg",
+  "sha256": "c92ea23ff7b6dfb9191af9451880c30f9a945bfdadce9009dc7dad6ea84d8581",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3673129,
+  "size_bytes": 3664513,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
