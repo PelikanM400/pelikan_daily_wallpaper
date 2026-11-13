@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg",
-  "sha256": "19c4dc14437f6ad08eb3bbf4a03f5b85fe3d8d7b100e4a6f6945f5477ab46982",
-  "date": "2026-11-13",
-  "published_at": "2026-11-13T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg",
+  "sha256": "c69b2cd26d45fe81e6c4a3b1606b8575653b7c29dc47774ace633c87f613fc38",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3711916,
+  "size_bytes": 3502045,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
