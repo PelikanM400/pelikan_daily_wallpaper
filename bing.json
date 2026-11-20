@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg",
-  "sha256": "a83ed93a96cfe61cf90c449e03a5b87208aa7d177698285cdbe961913b1f75f5",
-  "date": "2026-11-20",
-  "published_at": "2026-11-20T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg",
+  "sha256": "809d82d90b71401dc18614215873b9da7d5740faa94d60078898ca8e11aa2893",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3652989,
+  "size_bytes": 3756588,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
