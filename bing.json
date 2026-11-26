@@ -1,12 +1,12 @@
 {
   "schema": "paperdrop-manifest",
   "schema_version": 1,
-  "image_url": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg",
-  "sha256": "bf1c61d38b53e282fd74c3c5f319d5f7db36884489f1fe9276a18fb24cc6445f",
-  "date": "2026-11-26",
-  "published_at": "2026-11-26T00:00:00+08:00",
+  "image_url": "https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg",
+  "sha256": "3db1cf37699b1e21c04bc19d69e0a0501f50d3e5b64e736ed7ea2d5ceede2088",
+  "date": "2026-11-27",
+  "published_at": "2026-11-27T00:00:00+08:00",
   "timezone": "Asia/Shanghai",
-  "size_bytes": 3519022,
+  "size_bytes": 3703602,
   "width": 3840,
   "height": 2160,
   "credit": "Bing Daily Wallpaper © Microsoft；此处仅存放公开链接，用于个人桌面壁纸"
